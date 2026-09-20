@@ -1,4 +1,5 @@
 Jumia Product Data Analysis
+
 An analysis of 112 products from Jumia, reviewing how price, discounts, ratings and reviews relate with each other. From the workbook raw data is cleaned, enriched and analyzed to produce compelling dashboard.
 
 1)Overview 
